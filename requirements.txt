@@ -8,3 +8,4 @@ scipy
 seaborn
 streamlit
 xgboost
+openpyxl
